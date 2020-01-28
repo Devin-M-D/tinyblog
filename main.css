@@ -1,0 +1,18 @@
+html {
+  display: inline-flex;
+}
+body {
+  display: inline-flex;
+}
+span {
+  display: inline-flex;
+}
+html,
+body,
+span {
+  display: inline-flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
